@@ -1,0 +1,10 @@
+
+.homeclip{
+    clip-path: polygon(8% 0, 100% 0%, 100% 100%, 0 100%)
+}
+@media screen and (max-width:768){
+    img{
+        width: 300px !important;
+        height: 250px !important;
+    }
+}
